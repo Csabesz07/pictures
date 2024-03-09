@@ -1,3 +1,3 @@
-# szalay_carpenter
+# Pictures
 
-This repo was made to hold pictures for my Godfather's website project
+This repository holds pictures of other projects
